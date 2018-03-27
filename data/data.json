@@ -2504,8 +2504,9 @@
 			"ar": "لم تتمكن منظمة العفو الدولية من تأكيد ما إذا كان قد تم تنفيذ عمليات إعدام قضائية في هذا البلد.",
 			"zh_TW": "國際特赦組織無法確認該國是否發生司法處決。",
 			"zh_Hans": "国际特赦组织无法确认该国是否有发生司法处决。",
-			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"},
-			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
+			"zH_Hant": "國際特赦組織未能確定此國曾否執行司法處決。"
+		},
+		"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
 	}, {
 		"id": "KGZ",
 		"name": "KYRGYZSTAN",
@@ -7652,7 +7653,7 @@
 			"zh_Hans": "国际特赦组织无法确认该国是否有作出死刑判决。",
 			"zh_Hant": "國際特赦組織未能確定此國曾否作出死刑判決。",
 			"pt": "A Amnistia Internacional não pôde confirmar se existiram sentenças de morte neste país."
-}
+		}
 	}, {
 		"id": "PAK",
 		"name": "PAKISTAN",
@@ -9544,7 +9545,7 @@
 			"zh_Hant": "由於敘利亞發生武裝衝突，國際特赦組織無法確定死刑在該國的司法執行情況。",
 			"zh_TW": "由於敘利亞發生武裝衝突，國際特赦組織無法確認該國司法系統使用死刑的狀況。",
 			"pt": "Devido ao conflito armado na Síria, a Amnistia Internacional não pôde confirmar o uso judicial da pena de morte no país."
-			}
+		}
 	}, {
 		"id": "TWN",
 		"name": "TAIWAN",
@@ -13185,7 +13186,7 @@
 			"zH_Hant": "在厄立特里亞（台譯厄利垂亞）獲取與死刑相關的官方資訊相當困難。大部份被拘留者未獲通過司法程序，該國政府亦通常拒絕提供相關資訊。未有官方執行死刑和死刑判決的紀錄。",
 			"pt": "É muito difícil obter informações oficiais sobre o uso da pena de morte na Eritreia. A maioria dos detidos não passa por um procedimento judicial, e o governo geralmente recusa-se a fornecer informações relevantes. Neste contexto, não foram registadas execuções formais ou sentenças de morte"
 
-}
+		}
 	}, {
 		"id": "EST",
 		"name": "ESTONIA",
@@ -15840,8 +15841,6 @@
 		"death-penalties": "8",
 		"status": "RETENTIONIST"
 	}]
-}]
-}]
 }, {
 	"year": "2017",
 	"total-executions": "1032+",
