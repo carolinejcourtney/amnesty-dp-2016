@@ -1144,11 +1144,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but it was not possible to establish a figure.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -1255,11 +1255,11 @@
 		"death-penalties": "100+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -2811,11 +2811,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but it was not possible to establish a figure.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -2922,11 +2922,11 @@
 		"death-penalties": "111+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي.",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -4453,11 +4453,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but it was not possible to establish a figure.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -4554,11 +4554,11 @@
 		"death-penalties": "105+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي.",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -6030,11 +6030,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but it was not possible to establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution and death sentence but it was not possible to establish a figure.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها",
-			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -6141,11 +6141,11 @@
 		"death-penalties": "110+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -7621,11 +7621,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": "+号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -7743,11 +7743,11 @@
 		"death-penalties": "78",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -9179,11 +9179,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -9290,11 +9290,11 @@
 		"death-penalties": "77",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -10686,11 +10686,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -10797,11 +10797,11 @@
 		"death-penalties": "80",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -12202,11 +12202,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -12323,11 +12323,11 @@
 		"death-penalties": "72+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي ",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -13750,11 +13750,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
 			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
 			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -13861,11 +13861,11 @@
 		"death-penalties": "52",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
-			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
+			"ar": "ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -15276,11 +15276,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
+			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu dans le pays cité, mais qu’il n’a pas été possible de réaliser une estimation plus précise.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"ar": "علامة + تعني أن منظمة العفو الدولية تأكدت أن أكثر أكثر من عملية إعدام واحدة قد نُفذت ولكنها لم تتمكن من تحديد العدد ",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -15387,11 +15387,11 @@
 		"death-penalties": "32",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "Death penalty applicable under US federal law",
-			"fr": "La peine de mort est applicable au titre de la législation fédérale américaine.",
-			"es": "Pena de muerte aplicable en virtud de la legislación federal estadounidense.",
+			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.",
 			"ar": "عقوبة الإعدام نافذة بموجب القانون الفدرالي الأميركي",
-			"zh_Hans": "死刑在美国联邦法律之下适用",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 			"zh_Hant": "死刑為美國聯邦法律所許可",
 			"zh_TW": "美國聯邦法律之下適用死刑。",
 			"pt": "A pena de morte é aplicada em virtude da legislação federal dos EUA."
@@ -17703,11 +17703,11 @@
 		"death-penalties": "+",
 		"status": "RETENTIONIST",
 		"note": {
-			"en": "+ means Amnesty International is confident that there was more than one execution but we could not establish a figure.",
-			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu, mais qu’elle n’a pas pu parvenir à une estimation plus précise",
+			"en": "+ means Amnesty International is confident that there was more than one execution or death sentence but we could not establish a figure.",
+			"fr": "Le signe « + » signifie qu’Amnesty International est certaine qu’au moins une exécution a eu lieu dans le pays cité, mais qu’il n’a pas été possible de réaliser une estimation plus précise.",
 			"es": "El signo + significa que Amnistía Internacional tiene la certeza de que se llevó a cabo más de una ejecución, pero no pudo determinar la cifra.",
-			"ar": "إشارة + تعني أن منظمة العفو الدولية متأكدة من  تنفيذ أكثر من حالة اعدام واحدة ولكن لم تتمكن من تحديد عددها ",
-			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决，但无法确立确切数字。",
+			"ar": "علامة + تعني أن منظمة العفو الدولية تأكدت أن أكثر أكثر من عملية إعدام واحدة قد نُفذت ولكنها لم تتمكن من تحديد العدد.",
+			"zh_Hans": " +号表示国际特赦组织相信超过一人被处决,但无法确立确切数字。",
 			"zh_Hant": "=為國際特赦組織相信，該國有多於一宗處決，但我們不能獲得確實數字",
 			"zh_TW": "+號表示國際特赦組織確信處決數超過1，但無法確認確切數字。",
 			"pt": "O símbolo + significa que a Amnistia Internacional tem a certeza que existiu mais do que uma execução, mas não conseguiu determinar números mais precisos."
@@ -17894,9 +17894,10 @@
 		"status": "RETENTIONIST",
 		"note": {
 			"en": "Death penalty abolished in the Constitution but remains applicable under US federal law.",
-			"es": "Death penalty applicable under US federal law_es",
-			"fr": "Death penalty applicable under US federal law_fr",
-			"ar": "Death penalty applicable under US federal law_ar"
+			"es": "La pena de muerte está abolida en la Constitución, pero se sigue aplicando en virtud de la legislación federal estadounidense.,
+			"fr": "La peine de mort est abolie dans la Constitution mais elle reste applicable au titre de la législation fédérale américaine.",
+			"ar": " ألغيت عقوبة الإعدام في الدستور لكنها لا تزال مطبقة بموجب القانون الفيدرالي الأمريكي",
+			"zh_Hans": "宪法内废除了死刑，但在美国联邦法之下仍然使用",
 		}
 	},
 	{
@@ -18172,10 +18173,7 @@
 		"executions": "24",
 		"death-penalties": "24+",
 		"status": "RETENTIONIST",
-		"note": {
-			"en": "Death Sentences: 45 in Puntland;  8 in Somaliland; 7 by Federal Government of Somalia   Executions: 1 in Puntland;  6 in Somaliland; 7 by Federal Government of Somalia",
-			
-			
+		"note": {			
 			"en": "Death Sentences: 16 in Puntland;  8 by Federal Government of Somalia,  Executions: 12 in Puntland; 12 by Federal Government of Somalia  ",
 			"fr": "Condamnations à mort : 16 au Puntland ; 8 par le gouvernement fédéral de Somalie. Exécutions : 12 au Puntland ; 12 par le gouvernement fédéral de Somalie",
 			"es": "Condenas a muerte: 16 en Puntlandia; 8 por el Gobierno Federal somalí Ejecuciones: 12 en Puntlandia; 12 por el Gobierno Federal somalí",
